@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.DBus
+Exec=/usr/bin/ru.template.DBus
+Name=DBus
+Name[ru]=Учебное приложение для ОС Аврора
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=DBus
+ExecDBus=/usr/bin/ru.template.DBus
